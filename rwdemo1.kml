@@ -21,7 +21,7 @@
 </LatLonAltBox>
 </Region>
 <Link>
-<href>0/0/0.kml</href>
+<href>https://github.com/theblackarrows/rwdemo/blob/main/0/0/0.kml</href>
 <viewRefreshMode>onRegion</viewRefreshMode>
 </Link>
 </NetworkLink>
