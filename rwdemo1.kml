@@ -8,7 +8,7 @@
 </Style>
 <name>the land app test</name>
 <NetworkLink>
-<name>0/0/0</name>
+<name>https://raw.githubusercontent.com/theblackarrows/rwdemo/main/0/0/0</name>
 <Region>
 <Lod>
 <minLodPixels>-1</minLodPixels>
