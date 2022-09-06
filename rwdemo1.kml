@@ -8,7 +8,7 @@
 </Style>
 <name>the land app test</name>
 <NetworkLink>
-<name>https://github.com/theblackarrows/rwdemo/0/0/0</name>
+<name>https://github.com/theblackarrows/rwdemo/tree/main/0/0/0</name>
 <Region>
 <Lod>
 <minLodPixels>-1</minLodPixels>
@@ -21,7 +21,7 @@
 </LatLonAltBox>
 </Region>
 <Link>
-<href>https://github.com/theblackarrows/rwdemo/0/0/0.kml</href>
+<href>https://github.com/theblackarrows/rwdemo/tree/main/0/0/0.kml</href>
 <viewRefreshMode>onRegion</viewRefreshMode>
 </Link>
 </NetworkLink>
