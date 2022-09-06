@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style>
+<ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<name>the land app test</name>
+<NetworkLink>
+<name>0/0/0</name>
+<Region>
+<Lod>
+<minLodPixels>-1</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+<LatLonAltBox><west>-3.41307623017799</west>
+<north>51.14562462877643</north>
+<east>-3.29106013927551</east>
+<south>51.02360853787395</south>
+</LatLonAltBox>
+</Region>
+<Link>
+<href>0/0/0.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<LookAt>
+<longitude>-3.37546751075310</longitude>
+<latitude>51.12993322841440</latitude>
+<altitude>0</altitude>
+<range>4511.83424257327715</range>
+<tilt>0</tilt>
+<heading>0</heading>
+</LookAt>
+</Document>
+</kml>
